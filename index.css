@@ -1,3 +1,6 @@
+body {
+  background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
 h1 {
   color: red;
 }
@@ -7,5 +10,6 @@ p {
 }
 .indexpic {
   width: 500px;
-  border: solid white;
+  border: solid slategrey 5px;
+  border-radius: 10px;
 }
