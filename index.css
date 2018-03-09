@@ -1,6 +1,9 @@
 h1 {
   color: red;
-  background: yellow;
+  font-famiy: apple chancery; 
+  font-style: italic;
+  font-weight: normal;
+  font-variant: normal;
 }
 p {
   color: pink;
