@@ -2,11 +2,16 @@ body {
   background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
 }
 h1 {
-  color: red;
+  color: #DB7093;
+  font-family: Papyrus;
+  font-style: italic;
+  font-size: 90px;
+  text-align: center;
 }
 p {
-  color: pink;
-  background: yellow;
+  color: #DB7093;
+  background: white;
+  text-align: center;
 }
 .indexpic {
   width: 500px;
