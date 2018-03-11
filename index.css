@@ -16,11 +16,19 @@ p {
   border: 3px solid #7FBA65;
   padding: 1%;
 }
-#p01{
-  font-size: 150%;
+.indexpic1 {
+  width: 250px;
+  border: solid slategrey 5px;
+  border-radius: 10px;
 }
-.indexpic {
-  width: 500px;
+.indexpic2 {
+  width: 200px; 
+  border: solid slategrey 5px;
+  border-radius: 10px;
+}
+.indexpic3 {
+  width: 200px; 
+  height: 200px
   border: solid slategrey 5px;
   border-radius: 10px;
 }
