@@ -3,13 +3,34 @@ body {
 }
 h1 {
   color: red;
+  font-style: italic;
+  font-family: courier;
+  font-size: 300%;
 }
 p {
-  color: pink;
-  background: yellow;
+  color: orange;
+  background: lightyellow;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 100%;
+  border: 3px solid #7FBA65;
+  padding: 1%;
+}
+#p01{
+  font-size: 150%;
 }
 .indexpic {
   width: 500px;
   border: solid slategrey 5px;
   border-radius: 10px;
+}
+button{
+    background-color: #FF9900; /* orange-white-Daisy */
+    border: none;
+    color: #FFFFFF;
+    padding: 7px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
