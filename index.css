@@ -2,6 +2,7 @@ body {
   background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
 }
 h1 {
+<<<<<<< HEAD
   color: #DB7093;
   font-family: Papyrus;
   font-style: italic;
@@ -12,9 +13,55 @@ p {
   color: #DB7093;
   background: white;
   text-align: center;
+=======
+  color: red;
+  font-style: italic;
+  font-family: courier;
+  font-size: 300%;
 }
-.indexpic {
-  width: 500px;
+p {
+  color: orange;
+  background: lightyellow;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 100%;
+  border: 3px solid #7FBA65;
+  padding: 1%;
+>>>>>>> 20d46de0b17251a1f37aa8719491f22bf4b8062b
+}
+.indexpic1 {
+  width: 200px;
   border: solid slategrey 5px;
   border-radius: 10px;
+}
+.indexpic2 {
+  width: 200px; 
+  height: 200px;
+  border: solid slategrey 5px;
+  border-radius: 10px;
+}
+.indexpic3 {
+  width: 122px; 
+  height: 125px;
+  border: solid slategrey 5px;
+  border-radius: 10px;
+}
+.indexpic4 {
+  width: 200px; 
+  height: 200px;
+  border: solid slategrey 5px;
+  border-radius: 10px;
+}
+button{
+    background-color: #FF9900; /* orange-white-Daisy */
+    border: none;
+    color: #FFFFFF;
+    padding: 7px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+Nav {
+  font-family: acme;
 }
