@@ -32,6 +32,12 @@ p {
   border: solid slategrey 5px;
   border-radius: 10px;
 }
+.indexpic4 {
+  width: 200px; 
+  height: 200px
+  border: solid slategrey 5px;
+  border-radius: 10px;
+}
 button{
     background-color: #FF9900; /* orange-white-Daisy */
     border: none;
