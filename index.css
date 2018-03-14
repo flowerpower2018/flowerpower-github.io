@@ -2,10 +2,10 @@ body {
   background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
 }
 h1 {
-  color: red;
-  font-style: italic;
-  font-family: courier;
-  font-size: 300%;
+  color: rgb(125, 27, 186);
+  font-family: 'Allura', cursive;
+  font-size: 100px;
+  text-align: center;
 }
 p {
   color: orange;
