@@ -30,7 +30,7 @@ p {
 >>>>>>> 83fa4c58e7adc1ad9f8d40d5e4fc14dcced3cedc
 }
 p {
-  color: orange;
+  color: #7e4e7e;
   background: lightyellow;
   font-style: italic;
   font-family: fantasy;
@@ -64,13 +64,14 @@ p {
 }
 button{
     background-color: #cfb0cf; /* orange-white-Daisy */
-    border: none;
-    color: #FFFFFF;
+    border: 2px solid;
+    border-color: #7e4e7e;
     padding: 7px 17px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
+    border-radius: 12px;
 }
 Nav {
   font-family: acme;
