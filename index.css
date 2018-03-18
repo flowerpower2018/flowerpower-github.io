@@ -1,11 +1,33 @@
 body {
-  background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+  background-image: url("./images/pinkfloral.jpeg");
+  background-size: cover;
+}
+.jumbotron {
+  font-family: 'Allura', cursive;
+  font-size: 150px;
+  text-align: center;
 }
 h1 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  color: #DB7093;
+  font-family: Papyrus;
+  font-style: italic;
+  font-size: 90px;
+  text-align: center;
+}
+p {
+  color: #DB7093;
+  background: white;
+  text-align: center;
+=======
   color: red;
   font-style: italic;
   font-family: courier;
   font-size: 300%;
+=======
+  color: purple;
+>>>>>>> 83fa4c58e7adc1ad9f8d40d5e4fc14dcced3cedc
 }
 p {
   color: orange;
@@ -15,6 +37,7 @@ p {
   font-size: 100%;
   border: 3px solid #7FBA65;
   padding: 1%;
+>>>>>>> 20d46de0b17251a1f37aa8719491f22bf4b8062b
 }
 .indexpic1 {
   width: 200px;
