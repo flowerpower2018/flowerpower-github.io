@@ -14,14 +14,11 @@ body {
   text-align: center;
 }
 p {
-  color: orange;
-  background: lightyellow;
+  color: #741ae0;
   font-style: italic;
   font-family: 'merienda';
-  font-size: 100%;
-  border: 3px solid #7FBA65;
-  padding: 1%;
-
+  font-size: 18px;
+  text-align: center;
 }
 .indexpic1 {
   width: 200px;
