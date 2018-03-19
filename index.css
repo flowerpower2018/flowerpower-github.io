@@ -3,7 +3,7 @@ body {
   background-size: cover;
 }
 
-h1 {
+.jumbotron h1 {
   color: #a153d6;
   font-family: 'Allura';
   font-style: italic;
