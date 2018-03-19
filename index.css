@@ -1,6 +1,5 @@
 body {
-  background-image: url("./images/pinkfloral.jpeg");
-  background-size: cover;
+  background-color: #fbf7fc;
 }
 .jumbotron {
   background-image: url("./images/blurredflower.jpeg");
