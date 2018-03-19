@@ -16,7 +16,7 @@ p {
   text-align: center;
   color: red;
   font-style: italic;
-  font-family: courier;
+  font-family: 'merienda';
   font-size: 300%;
   color: purple;
 }
@@ -24,7 +24,7 @@ p {
   color: orange;
   background: lightyellow;
   font-style: italic;
-  font-family: fantasy;
+  font-family: 'merienda';
   font-size: 100%;
   border: 3px solid #7FBA65;
   padding: 1%;
@@ -70,6 +70,6 @@ button{
 
 }
 Nav {
-  font-family: acme;
+  font-family: 'merienda';
   font-size: 15px;
 }
