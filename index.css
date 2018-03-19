@@ -69,8 +69,15 @@ button{
     text-align: center;
     text-decoration: none;
     display: inline-block;
+<<<<<<< HEAD
+    font-size: 10px;
+    border-radius: 12px;
+
+=======
     font-size: 16px;
+>>>>>>> a821b60d17235e491781ec28ae3f340c2d25b399
 }
 Nav {
   font-family: acme;
+  font-size: 15px;
 }
