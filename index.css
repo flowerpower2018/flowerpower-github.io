@@ -19,14 +19,11 @@ p {
   color: #DB7093;
   background: white;
   text-align: center;
-=======
   color: red;
   font-style: italic;
   font-family: courier;
   font-size: 300%;
-=======
   color: purple;
->>>>>>> 83fa4c58e7adc1ad9f8d40d5e4fc14dcced3cedc
 }
 p {
   color: orange;
@@ -36,7 +33,7 @@ p {
   font-size: 100%;
   border: 3px solid #7FBA65;
   padding: 1%;
->>>>>>> 20d46de0b17251a1f37aa8719491f22bf4b8062b
+
 }
 .indexpic1 {
   width: 200px;
@@ -69,13 +66,13 @@ button{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-<<<<<<< HEAD
+
     font-size: 10px;
     border-radius: 12px;
 
-=======
+
     font-size: 16px;
->>>>>>> a821b60d17235e491781ec28ae3f340c2d25b399
+
 }
 Nav {
   font-family: acme;
