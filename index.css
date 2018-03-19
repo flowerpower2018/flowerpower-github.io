@@ -2,15 +2,10 @@ body {
   background-image: url("./images/pinkfloral.jpeg");
   background-size: cover;
 }
-.h1 {
-  font-family: 'Allura', cursive;
-  font-size: 250px;
-  text-align: center;
-  color: #cb4bf2;
-}
+
 h1 {
   color: #a153d6;
-  font-family: Papyrus;
+  font-family: Allura;
   font-style: italic;
   font-size: 90px;
   text-align: center;
