@@ -70,10 +70,11 @@ button{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 14px;
+    font-size: 10px;
     border-radius: 12px;
 
 }
 Nav {
   font-family: acme;
+  font-size: 15px;
 }
