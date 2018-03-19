@@ -2,15 +2,14 @@ body {
   background-image: url("./images/pinkfloral.jpeg");
   background-size: cover;
 }
-.jumbotron {
-  font-family: 'Allura', cursive;
-  font-size: 150px;
+.h1 {
+  font-family: 'Vast Shadow', cursive;
+  font-size: 250px;
   text-align: center;
+  color: #cb4bf2;
 }
 h1 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  color: #DB7093;
+  color: #a153d6;
   font-family: Papyrus;
   font-style: italic;
   font-size: 90px;
@@ -30,7 +29,7 @@ p {
 >>>>>>> 83fa4c58e7adc1ad9f8d40d5e4fc14dcced3cedc
 }
 p {
-  color: #7e4e7e;
+  color: orange;
   background: lightyellow;
   font-style: italic;
   font-family: fantasy;
@@ -63,16 +62,20 @@ p {
   border-radius: 10px;
 }
 button{
-    background-color: #cfb0cf; /* orange-white-Daisy */
-    border: 2px solid;
-    border-color: #7e4e7e;
+    background-color: #FF9900; /* orange-white-Daisy */
+    border: none;
+    color: #FFFFFF;
     padding: 7px 17px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+<<<<<<< HEAD
     font-size: 10px;
     border-radius: 12px;
 
+=======
+    font-size: 16px;
+>>>>>>> a821b60d17235e491781ec28ae3f340c2d25b399
 }
 Nav {
   font-family: acme;
