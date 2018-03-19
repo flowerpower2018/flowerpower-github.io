@@ -6,10 +6,11 @@ body {
   background-size: cover;
 }
 .jumbotron h1 {
-  color: #a153d6;
+  color: black;
   font-family: 'Allura';
   font-style: italic;
-  font-size: 90px;
+  font-weight: bold;
+  font-size: 105px;
   text-align: center;
 }
 p {
