@@ -11,7 +11,15 @@ h1 {
   text-align: center;
   padding: 2.5em;
 }
+h6 {
+  color: #a153d6;
+  font-family: 'Allura';
+  font-style: italic;
+  font-size: 2em;
+  text-align: center;
+  padding: 8em;
+}
 a {
   text-decoration: none;
-  color: #b643ef;
+  color: #a153d6;
 }
