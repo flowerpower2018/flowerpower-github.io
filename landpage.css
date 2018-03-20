@@ -2,6 +2,7 @@ body {
   background-image: url("landing.jpeg");
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
+  overflow: hidden;
 }
 h1 {
   color: #a153d6;
@@ -10,14 +11,6 @@ h1 {
   font-size: 6em;
   text-align: center;
   padding: 2.5em;
-}
-h6 {
-  color: #a153d6;
-  font-family: 'Allura';
-  font-style: italic;
-  font-size: 2em;
-  text-align: center;
-  padding: 8em;
 }
 a {
   text-decoration: none;
