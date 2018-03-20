@@ -20,25 +20,7 @@ p {
   font-size: 18px;
   text-align: center;
 }
-.indexpic1 {
-  width: 200px;
-  border: solid slategrey 5px;
-  border-radius: 10px;
-}
-.indexpic2 {
-  width: 200px; 
-  height: 200px;
-  border: solid slategrey 5px;
-  border-radius: 10px;
-}
-.indexpic3 {
-  width: 122px; 
-  height: 125px;
-  border: solid slategrey 5px;
-  border-radius: 10px;
-}
-.indexpic4 {
-  width: 200px; 
+.indexpic {
   height: 200px;
   border: solid slategrey 5px;
   border-radius: 10px;
