@@ -26,7 +26,6 @@ p {
   border-radius: 10px;
 }
 button{
-    background-color: #FF9900; /* orange-white-Daisy */
     border: none;
     color: black;
     padding: 7px 17px;
@@ -35,6 +34,21 @@ button{
     display: inline-block;
     font-size: 20px;
     border-radius: 12px;
+    position: fixed;
+    top: 0;
+    right; 0
+}
+#fb {
+  background-color: #3b5998;
+}
+#twitter {
+  background-color: #00aced;
+}
+#ig {
+  background-color: #8a3ab9;
+}
+#pinterest {
+  background-color: #c92228;
 }
 nav {
   font-family: 'merienda';
