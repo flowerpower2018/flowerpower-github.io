@@ -58,14 +58,6 @@ button {
   font-size: 15px;
   padding: 1em;
 }
-.arrow {
-border: solid #741ae0;
-border-width: 0 3px 3px 0;
-display: inline-block;
-padding: 3px;
-transform: rotate(-135deg);
--webkit-transform: rotate(-135deg);
-}
 nav {
   font-family: 'merienda';
   font-size: 30px;
