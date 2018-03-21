@@ -35,11 +35,12 @@ button {
     font-size: 20px;
     border-radius: 12px;
 }
-.buttons {
+#buttons {
   position: fixed;
   top: 0;
   right: 0;
-  padding: 1em;
+  padding-top: 1em;
+  padding-right: 2em;
 }
 #fb {
   background-color: #3b5998;
@@ -52,6 +53,18 @@ button {
 }
 #pinterest {
   background-color: #c92228;
+}
+#social{
+  font-size: 15px;
+  padding: 1em;
+}
+.arrow {
+border: solid #741ae0;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+transform: rotate(-135deg);
+-webkit-transform: rotate(-135deg);
 }
 nav {
   font-family: 'merienda';
