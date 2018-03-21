@@ -25,7 +25,7 @@ p {
   border: solid slategrey 5px;
   border-radius: 10px;
 }
-button{
+button {
     border: none;
     color: black;
     padding: 7px 17px;
@@ -34,6 +34,12 @@ button{
     display: inline-block;
     font-size: 20px;
     border-radius: 12px;
+}
+.buttons {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 1em;
 }
 #fb {
   background-color: #3b5998;
