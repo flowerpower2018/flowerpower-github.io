@@ -10,11 +10,11 @@ body {
   font-family: 'Allura';
   font-style: italic;
   font-weight: bold;
-  font-size: 105px;
+  font-size: 130px;
   text-align: center;
 }
 p {
-  color: #5d7099;
+  color: slategrey;
   font-style: italic;
   font-family: 'merienda';
   font-size: 18px;
