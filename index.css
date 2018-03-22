@@ -14,11 +14,12 @@ body {
   text-align: center;
 }
 p {
-  color: #741ae0;
+  color: #5d7099;
   font-style: italic;
   font-family: 'merienda';
   font-size: 18px;
-  text-align: center;
+  text align: 'right';
+
 }
 .indexpic {
   height: 200px;
@@ -63,6 +64,7 @@ nav {
   font-size: 30px;
   text-decoration: none;
 }
+
 ul {
   list-style: none;
 }
