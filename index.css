@@ -72,6 +72,9 @@ li {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
 }
+#myCarousel {
+  width: 1em;
+}
 footer {
   font-family: 'merienda';
   text-align: right;
