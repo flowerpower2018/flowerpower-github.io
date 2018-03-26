@@ -10,8 +10,8 @@ body {
   font-family: 'Allura';
   font-style: italic;
   font-weight: bold;
-  font-size: 130px;
-  text-align: center;
+  font-size: 100em;
+  text-align: left;
 }
 p {
   color: slategrey;
