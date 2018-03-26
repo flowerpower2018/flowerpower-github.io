@@ -4,18 +4,22 @@ body {
 .jumbotron {
   background-image: url("./images/blurredflower.jpeg");
   background-size: cover;
-  height: 10em;
-
 }
 .jumbotron h1 {
   color: black;
   font-family: 'Allura';
   font-style: italic;
   font-weight: bold;
-  font-size: 130px;
+  /* font-size: 50%; */
   text-align: center;
   margin-top: 0;
 }
+
+/* @media screen and (min-width: 768px)
+.jumbotron .h1, .jumbotron h1 {
+  font-size: 30px;
+} */
+
 p {
   color: slategrey;
   font-style: italic;
@@ -72,8 +76,8 @@ ul {
   list-style: none;
 }
 li {
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.85em;
+  padding-bottom: 0.85em;
 }
 #myCarousel {
   width: 50em;
