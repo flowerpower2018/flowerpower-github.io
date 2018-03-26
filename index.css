@@ -4,6 +4,8 @@ body {
 .jumbotron {
   background-image: url("./images/blurredflower.jpeg");
   background-size: cover;
+  height: 10em;
+
 }
 .jumbotron h1 {
   color: black;
@@ -12,6 +14,9 @@ body {
   font-weight: bold;
   font-size: 130px;
   text-align: center;
+  position: fixed;
+  margin-top: 0;
+
 }
 p {
   color: slategrey;
