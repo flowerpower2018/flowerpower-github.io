@@ -58,6 +58,10 @@ li a {
     text-decoration: none; color: #6550a8;
 }
   footer {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    padding: 0.5em;
     font-family: 'merienda';
     text-align: right;
     font-size: 16px;
