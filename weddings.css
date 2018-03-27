@@ -1,5 +1,5 @@
-jumbotron {
-  background-image: url("./images/blurredflower.jpeg");
+.jumbotron {
+  background-image: url("images/blurredflower.jpeg");
   background-size: cover;
 }
 .jumbotron h1 {

@@ -2,7 +2,7 @@ body {
   background-color: #fbf7fc;
 }
 .jumbotron {
-  background-image: url("./images/blurredflower.jpeg");
+  background-image: url("images/blurredflower.jpeg");
   background-size: cover;
 }
 .jumbotron h1 {
@@ -26,12 +26,6 @@ p {
   font-family: 'merienda';
   font-size: 18px;
   text align: 'right';
-
-}
-.indexpic {
-  height: 200px;
-  border: solid slategrey 5px;
-  border-radius: 10px;
 }
 button {
     border: none;
