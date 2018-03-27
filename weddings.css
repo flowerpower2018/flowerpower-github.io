@@ -42,6 +42,7 @@ button {
 nav {
     font-family: 'merienda';
     font-size: 30px;
+    font-style: italic;
     text-decoration: none;
 }
 ul {
