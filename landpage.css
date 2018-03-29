@@ -5,7 +5,7 @@ body {
   overflow: hidden;
 }
 h1 {
-  color: #a153d6;
+  color: #000000;
   font-family: 'Allura';
   font-style: italic;
   font-size: 6em;
@@ -14,5 +14,5 @@ h1 {
 }
 a {
   text-decoration: none;
-  color: #a153d6;
+  color: #000000;
 }
