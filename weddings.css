@@ -71,6 +71,9 @@ h2 {
   margin: 15px;
   text-align: center;
 }
+p {
+  font-family: 'merienda';
+}
   footer {
     position: relative;
     bottom: 0;
