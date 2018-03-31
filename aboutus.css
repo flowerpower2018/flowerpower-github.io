@@ -1,0 +1,39 @@
+/* =======================================================
+*
+* 	about us page style [flower power]
+*
+* ======================================================= */
+body {
+  font-family: "merienda", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #828282;
+  background: #fff;
+}
+p {
+  color: slategrey;
+  font-style: 'italic';
+  font-family: "merienda";
+  font-size: 18px;
+  text align: "left";
+  margin-bottom: 24px;
+}
+.aboutus h2 {
+  color: #6550a8;
+  font-family: 'Allura';
+  font-style: "italic";
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+.aboutus span {
+  display: block;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-family: "Montserrat", Arial, sans-serif;
+}
+
+/* End of about us stylesheet css  */
