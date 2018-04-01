@@ -71,6 +71,12 @@ h3 {
   padding: 20px;
   margin: 15px;
 }
+.thumbnail {
+  width: 100%;
+}
+#spacer {
+  height: 111px;
+}
 p {
   font-family: 'merienda';
 }
