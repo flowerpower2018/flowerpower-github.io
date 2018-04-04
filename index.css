@@ -80,7 +80,14 @@ li a {
 #myCarousel {
   width: 50em;
 }
-
+.carousel-caption {
+  font-family: 'merienda';
+  text-align: center;
+  font-size: 1.3em;
+  color: white;
+  background-color: rgb(101, 80, 168, 0.5);
+  border-radius: 20px;
+}
 
 footer {
   position: relative;
