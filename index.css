@@ -86,8 +86,9 @@ li a {
   text-align: center;
   font-size: 1.3em;
   color: white;
-  background-color: rgb(101, 80, 168, 0.5);
+  background-color: rgb(101, 80, 168, 0.75);
   border-radius: 20px;
+  margin: 10px;
 }
 
 footer {
