@@ -11,7 +11,9 @@
   text-align: center;
   margin-top: 0;
 }
-
+body {
+  background-color: rgb(101, 80, 168, 0.05);
+}
 /* @media screen and (min-width: 768px)
 .jumbotron .h1, .jumbotron h1 {
   font-size: 30px;

@@ -2,9 +2,6 @@
   background-image: url("images/blurredflower.jpeg");
   background-size: cover;
 }
-body {
-  background-image: url("images/ricepaper.jpeg");
-}
 .jumbotron h1 {
   color: black;
   font-family: 'Allura';
@@ -19,7 +16,7 @@ body {
   font-weight: 300;
   font-size: 18px;
   color: #828282;
-  background: #fff;
+  background-color: rgb(101, 80, 168, 0.05);
 }
 p {
   color: black;
