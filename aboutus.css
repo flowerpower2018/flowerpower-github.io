@@ -18,7 +18,7 @@ h3 {
   font-size: 35px;
   text-align: center;
   width: 42.5%;
-  height: 80px;
+  height: auto;
   border: 2px dotted #6550a8;
   border-radius: 40px;
   padding: 20px;

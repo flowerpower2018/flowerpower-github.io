@@ -74,7 +74,7 @@ h3 {
   font-style: italic;
   font-size: 35px;
   width: 42.5%;
-  height: 80px;
+  height: auto;
   border: 2px dotted #6550a8;
   border-radius: 40px;
   padding: 20px;
