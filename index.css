@@ -71,6 +71,9 @@ li {
 a {
   color: white;
 }
+li a {
+  text-decoration: none; color: #6550a8;
+}
 #myCarousel {
   width: 50em;
 }
